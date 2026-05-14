@@ -78,15 +78,16 @@ This project demonstrates the use of **data analytics and visualization techniqu
 
 ```md
 ![Dashboard Screenshot](images/dashboard.png)
-
+```
+```md
 HR-Analytics-DashBoard/
 │
 ├── Tableau Dashboard File
 ├── Dataset
 ├── Screenshots
 └── README.md
-
 ```
+
 ## 🎯 Objectives
 
 * Analyze employee attrition patterns  
